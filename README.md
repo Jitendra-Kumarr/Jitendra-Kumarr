@@ -4,13 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Full+Stack+Web+Developer;iOS+Developer;Java+%26+DSA+Enthusiast;React+%26+Node.js+Engineer;Open+Source+Explorer" alt="Typing SVG" />
 </p>
 
-###
-
-<h2 align="center">About me</h2>
-
-###
-
-<p align="center">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
@@ -74,7 +67,7 @@
 
 ###
 
-<h3 align="center">🌐 Socials:</h3>
+<h2 align="center">🌐 Socials:</h2>
 
 ###
 
@@ -90,6 +83,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
+
+<--!snake Animation--> 
 ###
 
 <img src="https://raw.githubusercontent.com/jitendra-kumarr/jitendra-kumarr/snake-output/snake.svg" alt="Snake animation" />
