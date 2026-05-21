@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="center">💻 Tech Stack :</h2>
+<h2 align="center"> Tech Stack : </h2>
 
 ###
 
@@ -67,7 +67,7 @@
 
 ###
 
-<h2 align="center">🌐 Socials:</h2>
+<h2 align="center"> Socials: </h2>
 
 ###
 
