@@ -1,24 +1,24 @@
-<h1 align="left">Jitendra Kumar</h1>
+<h1 align="center">Jitendra Kumar</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Full+Stack+Web+Developer;iOS+Developer;Java+%26+DSA+Enthusiast;React+%26+Node.js+Engineer;Open+Source+Explorer" alt="Typing SVG" />
+</p>
 
 ###
 
-<p align="left">Full Stack Developer</p>
+<h2 align="center">About me</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="center">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<h2 align="center">💻 Tech Stack :</h2>
 
 ###
 
-<h2 align="left">💻 Tech Stack :</h2>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -74,11 +74,11 @@
 
 ###
 
-<h3 align="left">🌐 Socials:</h3>
+<h3 align="center">🌐 Socials:</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/jitendra-kumar-7476442a1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -90,7 +90,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/jitendra-kumarr/jitendra-kumarr/snake-output/snake.svg" alt="Snake animation" />
