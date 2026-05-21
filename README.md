@@ -1,7 +1,7 @@
 <h1 align="center">Jitendra Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Full+Stack+Web+Developer;iOS+Developer;Java+%26+DSA+Enthusiast;React+%26+Node.js+Engineer;Open+Source+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Full+Stack+Web+Developer;iOS+Developer;Java+%26+DSA+Enthusiast;React+%26+Node.js+Engineer;Open+Source+Explorer;Creating+Bugs+Since+2021" alt="Typing SVG" />
 </p>
 
 
@@ -76,14 +76,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/lost_destiny07" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="40" alt="x logo" />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <a href="https://youtube.com/@brunttoast-n7p?si=DIxBBUZnXHnXakBk" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
-
 <--!snake Animation--> 
 ###
 
